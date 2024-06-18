@@ -14,6 +14,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 A définir
 
 ```
+Chrome
 
 ### Installation
 
@@ -35,7 +36,7 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 ```
 
 
-## Deployment
+## Deploiement
 
 Voici les étapes à suivre pour déployer en production :
 
@@ -57,8 +58,16 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
+<<<<<<< HEAD
+O.C.
+
+## License
+
+Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](LICENSE) pour plus de détails
+=======
 * **D.B.**
 
 ## License
 
 Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/LICENSE) pour plus de détails
+>>>>>>> release/0.0.2
